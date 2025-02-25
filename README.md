@@ -4,7 +4,7 @@ The NTSB Accidents DP project aims to develop a comprehensive and structured dat
    - Defines the business and functional requirements of the database, including (project overview, business objectives and
      use cases, data sources and expected data volume, security and compliance requirements).
 3. Creating a conceptual data-model document (CDM)
-   - Represents high-level data relatonships without techincal details, including ERD, high-level data entities, general
+   - Represents high-level data relationships without technical details, including ERD, high-level data entities, general
      relationships between entities.
 5. Creating a logical data-model document (LDM)
   - Converts the conceptual model into a detailed, structured form without specific database technology. Including tables,
